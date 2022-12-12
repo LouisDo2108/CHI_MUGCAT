@@ -1,0 +1,9 @@
+# mmcv==1.7.0
+# mmcv_full==1.7.0
+# mmdet==2.26.0
+# mmpose==0.29.0
+# mmpose.egg==info
+natsort==8.2.0
+numpy==1.21.6
+opencv_python==4.6.0.66
+xtcocotools==1.12
