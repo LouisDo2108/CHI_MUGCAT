@@ -17,6 +17,9 @@ conda activate open-mmlab
 5. Install mmpose https://github.com/open-mmlab/mmpose/blob/master/docs/en/install.md#installation
 
 6. Install requirements.txt
+```
+pip install -r requirements.txt
+```
 
 7. Download the pretrained models from [here](https://www.google.com).
 
