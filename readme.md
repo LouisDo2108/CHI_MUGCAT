@@ -1,19 +1,24 @@
 # Installation
 
-1. Create a conda environemnt:
+1. Create a conda environemnt and activate the environment
 ```
 conda create -n open-mmlab python=3.7
 ```
 
-2. Install pytorch with cudatoolkit's version matches with your GPUs' CUDA version.
+2. After creating the environment, activate it
+```
+conda activate open-mmlab
+```
 
-3. Install mmdetection: https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md/#Installation
+3. Install pytorch with cudatoolkit's version matches with your GPUs' CUDA version.
 
-4. Install mmpose https://github.com/open-mmlab/mmpose/blob/master/docs/en/install.md#installation
+4. Install mmdetection: https://github.com/open-mmlab/mmdetection/blob/master/docs/en/get_started.md/#Installation
 
-5. Install requirements.txt
+5. Install mmpose https://github.com/open-mmlab/mmpose/blob/master/docs/en/install.md#installation
 
-6. Download the pretrained models from [here](https://www.google.com).
+6. Install requirements.txt
+
+7. Download the pretrained models from [here](https://www.google.com).
 
 # How to use
 
