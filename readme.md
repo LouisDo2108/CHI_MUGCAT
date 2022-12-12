@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 # How to use
 
-cd to the code's root directory. Modify the video paths in demo_script.sh and run
+cd to CHI_MUGCAT's root directory. Modify the video paths in demo_script.sh and run
 ```
 bash demo_script.sh
 ```
