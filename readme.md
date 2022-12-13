@@ -21,7 +21,7 @@ conda activate open-mmlab
 pip install -r requirements.txt
 ```
 
-7. Download the pretrained models from [here](https://www.google.com).
+7. Download the pretrained models from [here](https://drive.google.com/drive/folders/1-33WaiGJact9y5LxX8hI9MLcEOCGnZ7l?usp=share_link).
 
 # How to use
 
